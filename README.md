@@ -48,3 +48,10 @@ More information: <a href="https://opendr.eu/">opendr.eu</a>
 
 This project has received funding from the European Union’s Horizon 2020
 research and innovation programme under grant agreement no. 871449.
+
+
+Install webots_Ros2 in foxy(ubuntu 20.04)
+```bash
+apt install ros-foxy-webots-ros2*
+```
+~~ 
