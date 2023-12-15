@@ -54,4 +54,3 @@ Install webots_Ros2 in foxy(ubuntu 20.04)
 ```bash
 apt install ros-foxy-webots-ros2*
 ```
-~~ 
